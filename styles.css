@@ -1,0 +1,40 @@
+body{
+    background-color: lightgray;
+    
+    
+}
+.insta-header{
+    display: flex;
+    width: 100%;
+    background: white;
+    justify-content: center;
+}
+.insta{
+    display: block;
+    justify-content: center;
+    
+    margin: 0 auto;
+    width: 500px;
+    margin: 1.5rem auto;
+}
+.insta-body{
+    background-color: white;
+    margin: 1.5rem auto;
+}
+
+.insta-body-title{
+    display: flex;
+
+    justify-content: space-between;
+}
+.insta-body-title p{
+    color: gainsboro;
+}
+.insta-body-text{
+    display: flex;
+    justify-content: flex-start;
+    margin:20px;
+}
+img{
+    width: 100%;
+}
